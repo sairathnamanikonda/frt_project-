@@ -16,7 +16,7 @@ Develop an event management software solution that streamlines the entire event 
 
 Azure Technology:
 
--Azure web stack
+-Azure  static web app 
 
 -Azure bot services
 
