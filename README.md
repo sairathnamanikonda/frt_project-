@@ -3,6 +3,7 @@
 Title of the project:Event Management
 
 -Project Link:https://jolly-ocean-0b0b00000.3.azurestaticapps.net
+
 -Project Demo Video:
 
 Problem statement :
@@ -16,7 +17,8 @@ Develop an event management software solution that streamlines the entire event 
 Azure Technology:
 
 -Azure web stack
--Health bot
+
+-Azure bot services
 
 Screenshots of the Home page:
 ![image](https://github.com/sairathnamanikonda/frt_project-/assets/131424643/4bca64b8-ea24-4f7d-b504-90673eedb584)
