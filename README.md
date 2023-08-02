@@ -40,8 +40,9 @@ Features and Functionalities
 - Has many graphical and visual innovative effects.
 - Have an aesthetically pleasing visual design and architecture.
 - Has collection of many web pages including Home, About Us, Contact, Gallery, Bot services.
-- User can know about health information through this website.
+- User can know about Events information through this website.
 - Included the feedback Survey form to increase the scope of improvement
+- user can book and contact through this website
 
 Tech Stack 
 - [Azure(Hosting)]
