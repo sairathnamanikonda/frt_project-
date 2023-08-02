@@ -4,7 +4,7 @@ Title of the project:Event Management
 
 -Project Link:https://jolly-ocean-0b0b00000.3.azurestaticapps.net
 
--Project Demo Video:
+-Project Demo Video:https://drive.google.com/file/d/1eeRvD-Cp7u_cCiLBNfKAWbe5dAPp5hhV/view?usp=sharing
 
 Problem statement :
 
